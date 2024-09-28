@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bright Red Technologies</title>
+    <link>https://brightredtechnologies.com/</link>
+    <description>Recent content on Bright Red Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 08:49:38 -0400</lastBuildDate>
+    <atom:link href="https://brightredtechnologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://brightredtechnologies.com/posts/welcome/</link>
+      <pubDate>Sat, 28 Sep 2024 08:49:38 -0400</pubDate>
+      <guid>https://brightredtechnologies.com/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;welocme-to-bright-red-technologies&#34;&gt;Welocme to Bright Red Technologies!&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
